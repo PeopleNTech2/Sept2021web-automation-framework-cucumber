@@ -1,0 +1,59 @@
+notepad++
+sublime
+studio code
+brackets
+virtual studio
+atom
+
+load balancer
+
+technical:
+front end dev --> web page design
+back end dev --> api
+database admin --> databases
+DevOps --> full stack dev
+
+emplyees --> table name
+select * from employees; --> query
+
+API: https://api.coindesk.com/v1/bpi/currentprice.json
+
+URL: https://api.coindesk.com
+URI: /v1/bpi/currentprice.json
+
+https://api.coindesk.com/v1/bpi/currentprice.json
+
+json file
+
+postman
+
+URL: http://info.venturepulse.org:8080
+URI: /service-webapp/api/SingleEmployeeResources/590a4acd35522970c7956cdf
+Request type: GET
+Access token: fhisklalfnsd2684351kjbnfkiwjfkwf521363
+header:
+	application: application/json
+
+Expected result:
+[
+  {
+    "id": "590a4acd35522970c7956cdf",
+    "empEmail": "mrahman@gmail.com",
+    "empName": "Matiur Rahman",
+    "salary": "100k",
+    "department": "Finance"
+  }
+]
+
+---------------------------------------------------------------------------------------
+1)boot camp project:
+
+all your teammates needs to push their own work to the team work github link and get merged
+you need to create 50 clean test cases with at least 5 steps
+
+2) cucumber framework
+create feature file for the 5 test cases you created manually
+automate all 5 scenario
+
+
+
